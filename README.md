@@ -4,4 +4,4 @@ Scripts para la extracción y exploración de los resultados del recuento provis
 
 La fuente de los datos se encuentra aquí: https://www.argentina.gob.ar/elecciones/resultados-del-recuento-provisional-de-las-elecciones-paso
 
-El archivo presentación.rmd contiente un ejemplo de consulta replicable a la fecha.
+El archivo presentacion.rmd contiente un ejemplo de consulta replicable a la fecha.
